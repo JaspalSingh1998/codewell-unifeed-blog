@@ -1,0 +1,26 @@
+:root {
+  --accent-color: #ee7c0e;
+  --muted-color: #656565;
+  --black-color: #000000;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 100%;
+}
+body {
+  font-family: "Manrope", sans-serif;
+  line-height: 1.1;
+  font-weight: 500;
+  font-size: 1.125rem;
+}
+@media (min-width: 420px) {
+}
+@media (min-width: 800px) {
+} ;
