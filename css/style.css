@@ -114,6 +114,9 @@ body {
   color: var(--muted-color);
 }
 /* Blogs */
+.post .featured-img{
+  margin-bottom: 1rem;
+}
 .posts {
   display: grid;
   gap: 3rem;
